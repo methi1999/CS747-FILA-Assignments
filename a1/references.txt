@@ -1,0 +1,5 @@
+1. The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond: http://arxiv.org/pdf/1102.2490v5.pdf
+
+2. NumPy random library: https://numpy.org/doc/1.16/reference/routines.random.html
+
+3. argparse for accepting command line arguments: https://docs.python.org/3/library/argparse.html
